@@ -1,0 +1,301 @@
+Order_ID,Order_Date,Customer_Name,Product_Name,Category,City,Quantity,Unit_Price,Sales,Profit
+ORD1111,2025-01-07,Ananya Das,Face Serum,Beauty,Pune,2,799,1598,423.45
+ORD1070,2025-01-13,Meera Singh,Cookware Set,Home,Pune,3,3299,9897,1227.31
+ORD1143,2025-01-13,Isha Rao,Novel,Books,Delhi,1,399,399,83.29
+ORD1171,2025-01-13,Aditya Gupta,Wireless Earbuds,Electronics,Delhi,1,2499,2499,501.03
+ORD1204,2025-01-15,Aditya Mehta,Bluetooth Speaker,Electronics,Mumbai,2,1999,3998,824.26
+ORD1241,2025-01-16,Neha Khan,Cookware Set,Home,Mumbai,3,3299,9897,2700.9
+ORD1249,2025-01-19,Aditya Verma,Denim Jacket,Fashion,Kolkata,2,1899,3798,1008.42
+ORD1253,2025-01-22,Kavya Patel,Face Serum,Beauty,Kolkata,1,799,799,246.3
+ORD1286,2025-01-23,Kavya Reddy,Face Serum,Beauty,Mumbai,2,799,1598,478.84
+ORD1081,2025-01-23,Vikram Sharma,Self-Help Book,Books,Kolkata,2,499,998,264.25
+ORD1125,2025-01-24,Aarav Mehta,Self-Help Book,Books,Ahmedabad,2,499,998,266.48
+ORD1068,2025-01-26,Sneha Sharma,Power Bank,Electronics,Ahmedabad,1,1299,1299,263.19
+ORD1270,2025-01-27,Priya Singh,Table Lamp,Home,Ahmedabad,5,899,4495,1250.74
+ORD1152,2025-02-03,Aarav Reddy,Cookbook,Books,Bengaluru,2,649,1298,369.65
+ORD1282,2025-02-03,Rahul Das,Perfume,Beauty,Bengaluru,1,1599,1599,415.05
+ORD1254,2025-02-11,Priya Das,Self-Help Book,Books,Chennai,2,499,998,320.75
+ORD1214,2025-02-13,Meera Patel,Cookware Set,Home,Mumbai,1,3299,3299,433.67
+ORD1099,2025-02-14,Rahul Verma,Perfume,Beauty,Pune,1,1599,1599,453.7
+ORD1219,2025-02-15,Pooja Nair,Cookware Set,Home,Bengaluru,2,3299,6598,1342.32
+ORD1142,2025-02-15,Priya Rao,Hair Dryer,Beauty,Hyderabad,3,1399,4197,1100.14
+ORD1052,2025-02-16,Suresh Patel,Hair Dryer,Beauty,Mumbai,5,1399,6995,2446.11
+ORD1003,2025-02-17,Lakshmi Patel,Running Shoes,Fashion,Chennai,2,2799,5598,1394.85
+ORD1208,2025-02-23,Priya Sharma,Bedsheet Set,Home,Hyderabad,2,1199,2398,686.95
+ORD1203,2025-02-25,Pooja Mehta,Novel,Books,Hyderabad,1,399,399,105.58
+ORD1283,2025-02-25,Kavya Gupta,Face Serum,Beauty,Hyderabad,1,799,799,249.66
+ORD1234,2025-02-28,Arjun Rao,Bedsheet Set,Home,Ahmedabad,4,1199,4796,589.11
+ORD1179,2025-03-04,Aarav Reddy,Perfume,Beauty,Kolkata,2,1599,3198,841.44
+ORD1119,2025-03-10,Ananya Gupta,Face Serum,Beauty,Ahmedabad,1,799,799,216.39
+ORD1285,2025-03-11,Kavya Das,Bedsheet Set,Home,Kolkata,2,1199,2398,700.23
+ORD1060,2025-03-13,Imran Rao,Hair Dryer,Beauty,Bengaluru,1,1399,1399,372.06
+ORD1018,2025-03-14,Arjun Mehta,Smartwatch,Electronics,Kolkata,2,4999,9998,2112.79
+ORD1037,2025-03-16,Arjun Das,Sunglasses,Fashion,Chennai,1,999,999,-51.23
+ORD1007,2025-03-16,Ananya Rao,Perfume,Beauty,Kolkata,4,1599,6396,2445.58
+ORD1113,2025-03-21,Arjun Sharma,Power Bank,Electronics,Ahmedabad,2,1299,2598,294.11
+ORD1148,2025-03-29,Imran Sharma,Perfume,Beauty,Mumbai,1,1599,1599,691.0
+ORD1163,2025-03-30,Neha Das,Air Fryer,Home,Hyderabad,2,5499,10998,1967.76
+ORD1096,2025-03-31,Priya Verma,Self-Help Book,Books,Ahmedabad,3,499,1497,368.72
+ORD1117,2025-04-03,Aditya Mehta,Running Shoes,Fashion,Pune,2,2799,5598,1058.82
+ORD1001,2025-04-07,Divya Mehta,Table Lamp,Home,Hyderabad,1,899,899,98.58
+ORD1160,2025-04-08,Pooja Verma,Face Serum,Beauty,Mumbai,1,799,799,-52.11
+ORD1140,2025-04-09,Rohan Das,Running Shoes,Fashion,Mumbai,4,2799,11196,2361.2
+ORD1230,2025-04-10,Aditya Sharma,Power Bank,Electronics,Bengaluru,4,1299,5196,383.26
+ORD1158,2025-04-11,Divya Khan,Air Fryer,Home,Hyderabad,3,5499,16497,1752.8
+ORD1278,2025-04-11,Rajesh Sharma,Wireless Earbuds,Electronics,Hyderabad,1,2499,2499,-148.89
+ORD1201,2025-04-14,Sneha Sharma,Running Shoes,Fashion,Kolkata,2,2799,5598,1480.5
+ORD1187,2025-04-14,Rajesh Patel,Smartwatch,Electronics,Delhi,5,4999,24995,4037.01
+ORD1169,2025-04-15,Sneha Das,Backpack,Fashion,Bengaluru,5,1499,7495,1608.97
+ORD1245,2025-04-16,Meera Singh,Smartwatch,Electronics,Hyderabad,5,4999,24995,2200.28
+ORD1016,2025-04-17,Pooja Das,Cookbook,Books,Kolkata,3,649,1947,503.99
+ORD1295,2025-04-22,Rohan Rao,Smartwatch,Electronics,Pune,3,4999,14997,1340.22
+ORD1129,2025-04-23,Arjun Patel,Running Shoes,Fashion,Ahmedabad,4,2799,11196,4467.55
+ORD1093,2025-04-26,Rohan Patel,Sunglasses,Fashion,Pune,2,999,1998,655.36
+ORD1299,2025-04-28,Rahul Mehta,Sunglasses,Fashion,Delhi,1,999,999,306.9
+ORD1019,2025-04-29,Pooja Khan,Backpack,Fashion,Ahmedabad,5,1499,7495,2252.77
+ORD1210,2025-04-30,Divya Das,Bedsheet Set,Home,Mumbai,2,1199,2398,319.64
+ORD1026,2025-05-03,Aditya Verma,Cookbook,Books,Delhi,1,649,649,192.41
+ORD1256,2025-05-04,Priya Mehta,Running Shoes,Fashion,Chennai,1,2799,2799,633.56
+ORD1206,2025-05-05,Vikram Khan,Wireless Earbuds,Electronics,Hyderabad,5,2499,12495,2448.26
+ORD1255,2025-05-05,Imran Sharma,Perfume,Beauty,Kolkata,2,1599,3198,-105.74
+ORD1293,2025-05-09,Ananya Das,Perfume,Beauty,Bengaluru,2,1599,3198,962.72
+ORD1015,2025-05-09,Imran Mehta,Smartwatch,Electronics,Hyderabad,2,4999,9998,1127.51
+ORD1290,2025-05-11,Lakshmi Khan,Denim Jacket,Fashion,Ahmedabad,1,1899,1899,412.87
+ORD1248,2025-05-21,Lakshmi Mehta,Hair Dryer,Beauty,Delhi,3,1399,4197,954.86
+ORD1238,2025-05-22,Sneha Rao,Novel,Books,Delhi,4,399,1596,371.45
+ORD1050,2025-05-24,Aditya Nair,Backpack,Fashion,Hyderabad,1,1499,1499,555.35
+ORD1186,2025-05-24,Imran Nair,Wireless Earbuds,Electronics,Hyderabad,3,2499,7497,1529.29
+ORD1294,2025-05-29,Meera Sharma,Perfume,Beauty,Kolkata,3,1599,4797,-543.83
+ORD1232,2025-06-02,Rahul Gupta,Smartwatch,Electronics,Kolkata,3,4999,14997,2160.67
+ORD1205,2025-06-05,Aarav Gupta,Self-Help Book,Books,Hyderabad,2,499,998,212.01
+ORD1056,2025-06-08,Isha Gupta,Cookware Set,Home,Pune,2,3299,6598,771.28
+ORD1161,2025-06-12,Meera Iyer,Cookbook,Books,Delhi,1,649,649,210.78
+ORD1076,2025-06-15,Rohan Iyer,Bedsheet Set,Home,Ahmedabad,2,1199,2398,428.94
+ORD1242,2025-06-17,Divya Mehta,Table Lamp,Home,Hyderabad,1,899,899,239.43
+ORD1051,2025-06-17,Priya Reddy,Running Shoes,Fashion,Kolkata,1,2799,2799,938.29
+ORD1181,2025-06-18,Vikram Reddy,Face Serum,Beauty,Delhi,5,799,3995,1758.65
+ORD1233,2025-06-21,Rahul Khan,Denim Jacket,Fashion,Bengaluru,1,1899,1899,555.93
+ORD1164,2025-06-25,Aditya Das,Table Lamp,Home,Delhi,1,899,899,166.87
+ORD1284,2025-06-27,Karthik Sharma,Novel,Books,Ahmedabad,2,399,798,-112.52
+ORD1146,2025-06-29,Kavya Reddy,Cookbook,Books,Chennai,4,649,2596,550.54
+ORD1126,2025-07-03,Pooja Gupta,Novel,Books,Bengaluru,2,399,798,233.64
+ORD1006,2025-07-04,Kavya Reddy,Cookbook,Books,Chennai,4,649,2596,660.0
+ORD1046,2025-07-05,Arjun Singh,Smartwatch,Electronics,Chennai,4,4999,19996,4294.46
+ORD1032,2025-07-07,Isha Sharma,Face Serum,Beauty,Mumbai,2,799,1598,-123.39
+ORD1218,2025-07-16,Rohan Patel,Perfume,Beauty,Chennai,2,1599,3198,1110.77
+ORD1024,2025-07-18,Isha Nair,Air Fryer,Home,Ahmedabad,5,5499,27495,7094.34
+ORD1090,2025-07-18,Kavya Khan,Face Serum,Beauty,Delhi,1,799,799,353.53
+ORD1229,2025-07-19,Priya Patel,Denim Jacket,Fashion,Delhi,4,1899,7596,2833.63
+ORD1065,2025-07-24,Meera Reddy,Self-Help Book,Books,Ahmedabad,2,499,998,217.34
+ORD1035,2025-07-24,Rahul Khan,Bluetooth Speaker,Electronics,Ahmedabad,1,1999,1999,430.73
+ORD1276,2025-08-01,Imran Iyer,Bedsheet Set,Home,Kolkata,2,1199,2398,491.14
+ORD1080,2025-08-10,Rohan Singh,Cookware Set,Home,Delhi,1,3299,3299,662.04
+ORD1064,2025-08-11,Pooja Singh,Novel,Books,Chennai,2,399,798,276.01
+ORD1011,2025-08-12,Meera Patel,Bluetooth Speaker,Electronics,Delhi,1,1999,1999,307.56
+ORD1091,2025-08-17,Pooja Gupta,Cookware Set,Home,Hyderabad,1,3299,3299,741.35
+ORD1022,2025-08-17,Lakshmi Rao,Power Bank,Electronics,Pune,2,1299,2598,531.04
+ORD1180,2025-08-18,Meera Verma,Cookbook,Books,Kolkata,3,649,1947,492.24
+ORD1039,2025-08-18,Sneha Verma,Bluetooth Speaker,Electronics,Kolkata,4,1999,7996,621.09
+ORD1023,2025-08-21,Arjun Rao,Denim Jacket,Fashion,Ahmedabad,3,1899,5697,2020.06
+ORD1088,2025-08-22,Neha Nair,Sunglasses,Fashion,Delhi,4,999,3996,1245.92
+ORD1173,2025-08-23,Rajesh Iyer,Cookbook,Books,Mumbai,2,649,1298,405.45
+ORD1183,2025-08-24,Rahul Verma,Hair Dryer,Beauty,Kolkata,1,1399,1399,571.4
+ORD1109,2025-08-25,Suresh Nair,Bluetooth Speaker,Electronics,Hyderabad,5,1999,9995,673.63
+ORD1217,2025-08-27,Aditya Mehta,Cookbook,Books,Chennai,1,649,649,208.32
+ORD1151,2025-08-28,Rajesh Singh,Hair Dryer,Beauty,Delhi,1,1399,1399,289.07
+ORD1225,2025-08-29,Kavya Patel,Bluetooth Speaker,Electronics,Hyderabad,1,1999,1999,388.7
+ORD1167,2025-09-01,Imran Iyer,Table Lamp,Home,Chennai,1,899,899,172.97
+ORD1243,2025-09-08,Karthik Verma,Bedsheet Set,Home,Kolkata,5,1199,5995,685.04
+ORD1107,2025-09-11,Sneha Iyer,Cookware Set,Home,Delhi,1,3299,3299,816.88
+ORD1101,2025-09-15,Neha Khan,Bluetooth Speaker,Electronics,Mumbai,3,1999,5997,774.67
+ORD1176,2025-09-15,Lakshmi Iyer,Bluetooth Speaker,Electronics,Mumbai,3,1999,5997,1225.74
+ORD1134,2025-09-16,Lakshmi Das,Cookbook,Books,Kolkata,2,649,1298,393.7
+ORD1038,2025-09-17,Vikram Khan,Smartwatch,Electronics,Delhi,4,4999,19996,3187.12
+ORD1216,2025-09-18,Rajesh Sharma,Air Fryer,Home,Kolkata,2,5499,10998,2123.32
+ORD1112,2025-09-19,Priya Mehta,Running Shoes,Fashion,Delhi,1,2799,2799,518.77
+ORD1224,2025-09-21,Karthik Mehta,Hair Dryer,Beauty,Delhi,1,1399,1399,321.74
+ORD1098,2025-09-21,Arjun Verma,Sunglasses,Fashion,Bengaluru,1,999,999,-139.47
+ORD1226,2025-09-22,Imran Verma,Cookware Set,Home,Ahmedabad,1,3299,3299,-460.16
+ORD1036,2025-09-23,Lakshmi Iyer,Face Serum,Beauty,Ahmedabad,3,799,2397,1004.66
+ORD1044,2025-09-24,Rohan Mehta,Sunglasses,Fashion,Delhi,4,999,3996,-125.93
+ORD1235,2025-09-25,Kavya Iyer,Air Fryer,Home,Bengaluru,1,5499,5499,771.64
+ORD1147,2025-09-27,Priya Singh,Running Shoes,Fashion,Kolkata,1,2799,2799,1043.52
+ORD1061,2025-09-29,Kavya Verma,Face Serum,Beauty,Delhi,3,799,2397,763.36
+ORD1020,2025-09-29,Pooja Verma,Self-Help Book,Books,Mumbai,1,499,499,107.45
+ORD1042,2025-10-04,Vikram Gupta,Wireless Earbuds,Electronics,Chennai,1,2499,2499,141.77
+ORD1009,2025-10-04,Pooja Verma,Bedsheet Set,Home,Bengaluru,2,1199,2398,458.6
+ORD1079,2025-10-04,Karthik Sharma,Bluetooth Speaker,Electronics,Ahmedabad,1,1999,1999,353.41
+ORD1247,2025-10-07,Ananya Khan,Novel,Books,Ahmedabad,1,399,399,85.42
+ORD1071,2025-10-09,Priya Singh,Bluetooth Speaker,Electronics,Bengaluru,1,1999,1999,-280.47
+ORD1289,2025-10-13,Aarav Nair,Novel,Books,Mumbai,2,399,798,200.83
+ORD1184,2025-10-15,Divya Iyer,Bedsheet Set,Home,Chennai,2,1199,2398,470.76
+ORD1195,2025-10-18,Neha Nair,Bedsheet Set,Home,Kolkata,3,1199,3597,758.34
+ORD1010,2025-10-19,Aditya Das,Power Bank,Electronics,Pune,2,1299,2598,568.51
+ORD1074,2025-10-21,Pooja Sharma,Bluetooth Speaker,Electronics,Mumbai,2,1999,3998,711.46
+ORD1159,2025-10-22,Sneha Gupta,Hair Dryer,Beauty,Hyderabad,1,1399,1399,581.37
+ORD1258,2025-10-22,Suresh Mehta,Perfume,Beauty,Delhi,1,1599,1599,613.99
+ORD1296,2025-10-23,Vikram Verma,Perfume,Beauty,Kolkata,1,1599,1599,607.11
+ORD1030,2025-10-27,Imran Iyer,Novel,Books,Pune,3,399,1197,277.29
+ORD1236,2025-10-28,Vikram Das,Self-Help Book,Books,Hyderabad,2,499,998,223.88
+ORD1156,2025-10-29,Karthik Nair,Novel,Books,Kolkata,1,399,399,127.2
+ORD1170,2025-11-01,Neha Singh,Sunglasses,Fashion,Delhi,1,999,999,186.89
+ORD1085,2025-11-04,Imran Mehta,Hair Dryer,Beauty,Delhi,2,1399,2798,1093.91
+ORD1259,2025-11-07,Isha Khan,Novel,Books,Ahmedabad,2,399,798,203.51
+ORD1300,2025-11-07,Vikram Gupta,Bluetooth Speaker,Electronics,Hyderabad,1,1999,1999,155.01
+ORD1084,2025-11-08,Vikram Das,Smartwatch,Electronics,Chennai,1,4999,4999,1031.73
+ORD1138,2025-11-08,Ananya Rao,Novel,Books,Pune,2,399,798,-74.79
+ORD1115,2025-11-11,Neha Sharma,Sunglasses,Fashion,Chennai,3,999,2997,756.58
+ORD1212,2025-11-13,Rajesh Gupta,Power Bank,Electronics,Delhi,4,1299,5196,-206.0
+ORD1094,2025-11-16,Aditya Nair,Denim Jacket,Fashion,Pune,2,1899,3798,1068.0
+ORD1069,2025-11-20,Ananya Nair,Self-Help Book,Books,Hyderabad,1,499,499,110.33
+ORD1251,2025-11-25,Aditya Rao,Bedsheet Set,Home,Hyderabad,3,1199,3597,765.75
+ORD1157,2025-11-25,Isha Rao,Air Fryer,Home,Ahmedabad,1,5499,5499,-653.18
+ORD1166,2025-11-28,Sneha Khan,Face Serum,Beauty,Ahmedabad,4,799,3196,998.99
+ORD1033,2025-11-30,Imran Rao,Denim Jacket,Fashion,Ahmedabad,2,1899,3798,1258.27
+ORD1104,2025-11-30,Sneha Gupta,Sunglasses,Fashion,Bengaluru,1,999,999,158.31
+ORD1043,2025-12-01,Rohan Singh,Novel,Books,Hyderabad,2,399,798,221.22
+ORD1149,2025-12-01,Arjun Gupta,Table Lamp,Home,Pune,3,899,2697,379.08
+ORD1135,2025-12-05,Rohan Khan,Cookware Set,Home,Delhi,1,3299,3299,573.33
+ORD1269,2025-12-05,Karthik Mehta,Sunglasses,Fashion,Delhi,2,999,1998,590.2
+ORD1197,2025-12-05,Arjun Nair,Perfume,Beauty,Chennai,5,1599,7995,2907.3
+ORD1025,2025-12-12,Arjun Khan,Cookware Set,Home,Hyderabad,1,3299,3299,397.3
+ORD1194,2025-12-13,Ananya Das,Novel,Books,Pune,1,399,399,122.78
+ORD1017,2025-12-15,Isha Sharma,Smartwatch,Electronics,Bengaluru,1,4999,4999,427.36
+ORD1274,2025-12-18,Imran Verma,Self-Help Book,Books,Bengaluru,2,499,998,293.1
+ORD1220,2025-12-20,Rahul Rao,Bedsheet Set,Home,Hyderabad,3,1199,3597,472.04
+ORD1047,2025-12-22,Aarav Singh,Face Serum,Beauty,Hyderabad,1,799,799,259.69
+ORD1141,2025-12-25,Isha Das,Bedsheet Set,Home,Ahmedabad,3,1199,3597,-455.79
+ORD1130,2025-12-26,Isha Singh,Table Lamp,Home,Mumbai,3,899,2697,658.65
+ORD1182,2025-12-28,Neha Khan,Cookbook,Books,Chennai,2,649,1298,303.6
+ORD1122,2026-01-03,Ananya Patel,Face Serum,Beauty,Delhi,1,799,799,347.28
+ORD1067,2026-01-04,Vikram Mehta,Running Shoes,Fashion,Chennai,2,2799,5598,1038.07
+ORD1185,2026-01-07,Vikram Singh,Bedsheet Set,Home,Kolkata,2,1199,2398,538.77
+ORD1250,2026-01-07,Karthik Gupta,Hair Dryer,Beauty,Delhi,2,1399,2798,836.35
+ORD1116,2026-01-08,Arjun Gupta,Perfume,Beauty,Kolkata,2,1599,3198,654.16
+ORD1231,2026-01-10,Vikram Nair,Self-Help Book,Books,Delhi,1,499,499,117.31
+ORD1207,2026-01-10,Vikram Verma,Table Lamp,Home,Bengaluru,2,899,1798,447.42
+ORD1040,2026-01-10,Aarav Nair,Perfume,Beauty,Ahmedabad,1,1599,1599,398.05
+ORD1139,2026-01-11,Isha Khan,Face Serum,Beauty,Mumbai,2,799,1598,439.91
+ORD1078,2026-01-13,Rahul Mehta,Running Shoes,Fashion,Delhi,1,2799,2799,808.82
+ORD1223,2026-01-14,Suresh Khan,Table Lamp,Home,Bengaluru,5,899,4495,-110.24
+ORD1192,2026-01-19,Neha Gupta,Cookbook,Books,Bengaluru,2,649,1298,389.13
+ORD1013,2026-01-25,Kavya Patel,Cookbook,Books,Bengaluru,1,649,649,170.23
+ORD1215,2026-01-26,Arjun Verma,Bedsheet Set,Home,Delhi,1,1199,1199,140.3
+ORD1260,2026-01-28,Rajesh Gupta,Air Fryer,Home,Hyderabad,1,5499,5499,793.59
+ORD1267,2026-02-05,Imran Rao,Cookbook,Books,Kolkata,2,649,1298,400.38
+ORD1287,2026-02-10,Lakshmi Nair,Backpack,Fashion,Bengaluru,1,1499,1499,227.71
+ORD1089,2026-02-10,Arjun Sharma,Novel,Books,Chennai,3,399,1197,368.38
+ORD1027,2026-02-10,Suresh Gupta,Novel,Books,Bengaluru,2,399,798,235.71
+ORD1108,2026-02-10,Rahul Iyer,Backpack,Fashion,Delhi,4,1499,5996,1766.24
+ORD1118,2026-02-11,Rohan Mehta,Novel,Books,Pune,1,399,399,82.89
+ORD1012,2026-02-16,Lakshmi Singh,Self-Help Book,Books,Mumbai,4,499,1996,547.85
+ORD1196,2026-02-18,Karthik Rao,Air Fryer,Home,Chennai,3,5499,16497,2616.04
+ORD1132,2026-02-18,Sneha Das,Hair Dryer,Beauty,Chennai,1,1399,1399,410.0
+ORD1172,2026-02-19,Aarav Verma,Hair Dryer,Beauty,Delhi,1,1399,1399,287.54
+ORD1198,2026-02-20,Lakshmi Mehta,Running Shoes,Fashion,Hyderabad,3,2799,8397,1343.63
+ORD1240,2026-02-22,Priya Rao,Denim Jacket,Fashion,Pune,2,1899,3798,-437.73
+ORD1298,2026-02-27,Aarav Das,Power Bank,Electronics,Ahmedabad,2,1299,2598,422.99
+ORD1092,2026-03-02,Priya Verma,Face Serum,Beauty,Hyderabad,4,799,3196,-311.6
+ORD1174,2026-03-06,Kavya Gupta,Bluetooth Speaker,Electronics,Mumbai,2,1999,3998,376.48
+ORD1124,2026-03-07,Meera Mehta,Perfume,Beauty,Delhi,2,1599,3198,1140.92
+ORD1095,2026-03-07,Ananya Rao,Novel,Books,Delhi,1,399,399,84.48
+ORD1252,2026-03-09,Aarav Nair,Table Lamp,Home,Bengaluru,5,899,4495,1289.47
+ORD1288,2026-03-09,Divya Rao,Bedsheet Set,Home,Delhi,1,1199,1199,276.08
+ORD1002,2026-03-11,Priya Mehta,Face Serum,Beauty,Bengaluru,1,799,799,-25.4
+ORD1077,2026-03-14,Vikram Rao,Face Serum,Beauty,Delhi,2,799,1598,452.57
+ORD1281,2026-03-17,Priya Das,Smartwatch,Electronics,Hyderabad,4,4999,19996,2666.92
+ORD1072,2026-03-23,Imran Nair,Power Bank,Electronics,Delhi,2,1299,2598,195.67
+ORD1262,2026-03-27,Priya Rao,Air Fryer,Home,Kolkata,3,5499,16497,-2198.48
+ORD1268,2026-03-31,Meera Patel,Air Fryer,Home,Chennai,3,5499,16497,4452.76
+ORD1244,2026-04-03,Imran Sharma,Face Serum,Beauty,Mumbai,1,799,799,181.31
+ORD1066,2026-04-06,Rahul Gupta,Power Bank,Electronics,Delhi,2,1299,2598,492.02
+ORD1059,2026-04-08,Lakshmi Sharma,Smartwatch,Electronics,Hyderabad,2,4999,9998,2130.75
+ORD1213,2026-04-08,Meera Verma,Self-Help Book,Books,Hyderabad,3,499,1497,434.53
+ORD1031,2026-04-15,Rajesh Rao,Bedsheet Set,Home,Kolkata,3,1199,3597,403.51
+ORD1086,2026-04-17,Rahul Nair,Self-Help Book,Books,Delhi,1,499,499,-29.54
+ORD1028,2026-04-22,Vikram Mehta,Denim Jacket,Fashion,Ahmedabad,5,1899,9495,1489.64
+ORD1097,2026-05-01,Aarav Das,Backpack,Fashion,Kolkata,2,1499,2998,784.24
+ORD1048,2026-05-02,Kavya Khan,Wireless Earbuds,Electronics,Bengaluru,3,2499,7497,1077.16
+ORD1199,2026-05-02,Isha Das,Self-Help Book,Books,Hyderabad,1,499,499,103.27
+ORD1054,2026-05-02,Rahul Rao,Table Lamp,Home,Delhi,1,899,899,90.09
+ORD1177,2026-05-03,Imran Sharma,Backpack,Fashion,Pune,1,1499,1499,440.17
+ORD1145,2026-05-05,Lakshmi Sharma,Perfume,Beauty,Kolkata,1,1599,1599,570.03
+ORD1131,2026-05-07,Arjun Mehta,Cookware Set,Home,Chennai,4,3299,13196,2524.14
+ORD1228,2026-05-08,Aditya Patel,Bluetooth Speaker,Electronics,Ahmedabad,1,1999,1999,187.29
+ORD1120,2026-05-10,Karthik Sharma,Backpack,Fashion,Kolkata,1,1499,1499,578.27
+ORD1209,2026-05-14,Isha Sharma,Wireless Earbuds,Electronics,Pune,1,2499,2499,257.71
+ORD1261,2026-05-19,Rahul Singh,Table Lamp,Home,Delhi,4,899,3596,531.16
+ORD1190,2026-05-20,Lakshmi Sharma,Wireless Earbuds,Electronics,Ahmedabad,1,2499,2499,224.43
+ORD1239,2026-05-23,Rahul Patel,Denim Jacket,Fashion,Delhi,2,1899,3798,1356.81
+ORD1127,2026-06-01,Imran Das,Smartwatch,Electronics,Hyderabad,1,4999,4999,560.42
+ORD1049,2026-06-03,Meera Verma,Cookbook,Books,Delhi,2,649,1298,422.1
+ORD1034,2026-06-04,Suresh Rao,Wireless Earbuds,Electronics,Hyderabad,1,2499,2499,242.59
+ORD1280,2026-06-06,Ananya Sharma,Face Serum,Beauty,Bengaluru,2,799,1598,368.14
+ORD1128,2026-06-08,Rohan Sharma,Smartwatch,Electronics,Kolkata,1,4999,4999,873.28
+ORD1257,2026-06-08,Vikram Singh,Bluetooth Speaker,Electronics,Kolkata,2,1999,3998,833.29
+ORD1041,2026-06-09,Rohan Reddy,Cookbook,Books,Delhi,1,649,649,162.07
+ORD1275,2026-06-09,Sneha Reddy,Backpack,Fashion,Chennai,1,1499,1499,591.52
+ORD1137,2026-06-09,Divya Sharma,Smartwatch,Electronics,Mumbai,1,4999,4999,773.49
+ORD1103,2026-06-09,Arjun Gupta,Cookware Set,Home,Mumbai,2,3299,6598,1694.15
+ORD1057,2026-06-10,Neha Verma,Novel,Books,Mumbai,1,399,399,116.83
+ORD1271,2026-06-14,Neha Gupta,Cookware Set,Home,Ahmedabad,2,3299,6598,1977.19
+ORD1264,2026-06-15,Ananya Verma,Table Lamp,Home,Ahmedabad,2,899,1798,401.42
+ORD1175,2026-06-15,Sneha Das,Bedsheet Set,Home,Pune,2,1199,2398,249.23
+ORD1237,2026-06-24,Meera Patel,Cookbook,Books,Pune,1,649,649,-83.2
+ORD1082,2026-06-25,Suresh Khan,Cookbook,Books,Delhi,2,649,1298,273.84
+ORD1133,2026-06-28,Priya Das,Bedsheet Set,Home,Pune,1,1199,1199,308.11
+ORD1189,2026-06-28,Rohan Verma,Hair Dryer,Beauty,Ahmedabad,3,1399,4197,1046.49
+ORD1154,2026-07-01,Rohan Verma,Wireless Earbuds,Electronics,Kolkata,4,2499,9996,1794.29
+ORD1188,2026-07-02,Sneha Mehta,Sunglasses,Fashion,Bengaluru,1,999,999,187.98
+ORD1106,2026-07-06,Ananya Singh,Sunglasses,Fashion,Chennai,2,999,1998,744.89
+ORD1053,2026-07-15,Karthik Iyer,Bedsheet Set,Home,Hyderabad,1,1199,1199,207.22
+ORD1265,2026-07-18,Rajesh Reddy,Table Lamp,Home,Ahmedabad,2,899,1798,216.97
+ORD1114,2026-07-18,Vikram Das,Perfume,Beauty,Bengaluru,1,1599,1599,360.33
+ORD1045,2026-07-21,Neha Singh,Power Bank,Electronics,Mumbai,4,1299,5196,660.63
+ORD1073,2026-07-22,Lakshmi Iyer,Bedsheet Set,Home,Bengaluru,4,1199,4796,1258.43
+ORD1008,2026-07-26,Rajesh Nair,Backpack,Fashion,Pune,1,1499,1499,-160.2
+ORD1202,2026-07-30,Rahul Singh,Wireless Earbuds,Electronics,Mumbai,1,2499,2499,474.42
+ORD1211,2026-08-04,Karthik Singh,Self-Help Book,Books,Chennai,1,499,499,158.65
+ORD1273,2026-08-11,Vikram Iyer,Bluetooth Speaker,Electronics,Kolkata,1,1999,1999,236.19
+ORD1110,2026-08-21,Arjun Reddy,Table Lamp,Home,Pune,1,899,899,123.99
+ORD1136,2026-08-23,Karthik Verma,Running Shoes,Fashion,Hyderabad,1,2799,2799,781.0
+ORD1221,2026-08-24,Rajesh Iyer,Wireless Earbuds,Electronics,Chennai,1,2499,2499,494.88
+ORD1055,2026-08-24,Priya Gupta,Running Shoes,Fashion,Hyderabad,1,2799,2799,991.58
+ORD1014,2026-08-27,Sneha Singh,Denim Jacket,Fashion,Chennai,1,1899,1899,395.63
+ORD1246,2026-09-06,Rajesh Khan,Wireless Earbuds,Electronics,Delhi,4,2499,9996,1755.17
+ORD1191,2026-09-06,Aarav Patel,Novel,Books,Pune,3,399,1197,283.67
+ORD1168,2026-09-10,Imran Nair,Table Lamp,Home,Mumbai,3,899,2697,795.49
+ORD1222,2026-09-16,Vikram Singh,Bedsheet Set,Home,Hyderabad,1,1199,1199,227.06
+ORD1121,2026-09-22,Arjun Khan,Smartwatch,Electronics,Mumbai,2,4999,9998,1955.81
+ORD1266,2026-09-29,Isha Reddy,Cookbook,Books,Kolkata,1,649,649,212.54
+ORD1063,2026-09-29,Rajesh Patel,Smartwatch,Electronics,Hyderabad,1,4999,4999,803.64
+ORD1297,2026-10-06,Vikram Singh,Cookware Set,Home,Mumbai,2,3299,6598,1859.21
+ORD1291,2026-10-07,Rajesh Iyer,Denim Jacket,Fashion,Chennai,1,1899,1899,387.62
+ORD1277,2026-10-09,Priya Verma,Running Shoes,Fashion,Kolkata,2,2799,5598,1683.78
+ORD1155,2026-10-12,Rohan Das,Smartwatch,Electronics,Chennai,1,4999,4999,-650.89
+ORD1100,2026-10-12,Rohan Sharma,Cookware Set,Home,Delhi,1,3299,3299,828.48
+ORD1144,2026-10-19,Neha Mehta,Sunglasses,Fashion,Mumbai,1,999,999,301.72
+ORD1165,2026-10-24,Priya Nair,Novel,Books,Pune,2,399,798,249.91
+ORD1279,2026-10-25,Lakshmi Rao,Denim Jacket,Fashion,Mumbai,2,1899,3798,1095.01
+ORD1029,2026-10-28,Ananya Rao,Table Lamp,Home,Mumbai,2,899,1798,-262.9
+ORD1075,2026-10-31,Rahul Gupta,Sunglasses,Fashion,Delhi,2,999,1998,440.43
+ORD1150,2026-11-13,Lakshmi Khan,Face Serum,Beauty,Ahmedabad,1,799,799,329.97
+ORD1123,2026-11-15,Karthik Reddy,Running Shoes,Fashion,Kolkata,4,2799,11196,4037.52
+ORD1272,2026-11-24,Rohan Rao,Air Fryer,Home,Delhi,2,5499,10998,1872.09
+ORD1263,2026-11-25,Vikram Gupta,Self-Help Book,Books,Pune,3,499,1497,323.93
+ORD1227,2026-11-25,Meera Mehta,Wireless Earbuds,Electronics,Ahmedabad,1,2499,2499,445.68
+ORD1005,2026-11-28,Lakshmi Gupta,Air Fryer,Home,Pune,2,5499,10998,-514.43
+ORD1004,2026-11-30,Sneha Reddy,Novel,Books,Delhi,2,399,798,227.94
+ORD1193,2026-11-30,Karthik Reddy,Backpack,Fashion,Ahmedabad,2,1499,2998,471.08
+ORD1062,2026-12-02,Meera Sharma,Sunglasses,Fashion,Delhi,2,999,1998,490.79
+ORD1178,2026-12-02,Sneha Gupta,Perfume,Beauty,Bengaluru,2,1599,3198,1397.5
+ORD1021,2026-12-08,Lakshmi Sharma,Face Serum,Beauty,Chennai,1,799,799,349.97
+ORD1102,2026-12-10,Vikram Mehta,Novel,Books,Delhi,1,399,399,135.52
+ORD1153,2026-12-11,Priya Verma,Face Serum,Beauty,Bengaluru,1,799,799,-20.31
+ORD1200,2026-12-15,Isha Das,Hair Dryer,Beauty,Bengaluru,2,1399,2798,990.98
+ORD1162,2026-12-15,Lakshmi Reddy,Novel,Books,Pune,1,399,399,117.9
+ORD1083,2026-12-19,Suresh Reddy,Smartwatch,Electronics,Hyderabad,1,4999,4999,693.87
+ORD1087,2026-12-23,Meera Sharma,Cookbook,Books,Hyderabad,1,649,649,153.85
+ORD1292,2026-12-25,Rahul Mehta,Cookbook,Books,Ahmedabad,1,649,649,213.36
+ORD1105,2026-12-28,Suresh Patel,Power Bank,Electronics,Delhi,2,1299,2598,221.92
+ORD1058,2026-12-30,Kavya Reddy,Hair Dryer,Beauty,Hyderabad,2,1399,2798,-305.66
